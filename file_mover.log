@@ -1,0 +1,97 @@
+2024-11-02 12:37:54,761 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 12:39:38,127 - INFO - File transfer completed successfully
+2024-11-02 12:39:41,049 - INFO - File transfer cancelled by user
+2024-11-02 12:57:57,670 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 12:59:10,015 - INFO - File transfer cancelled by user
+2024-11-02 13:01:34,965 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 13:02:04,541 - INFO - File transfer cancelled by user
+2024-11-02 13:02:27,426 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning/automation-using-python to F:/test
+2024-11-02 13:04:28,141 - INFO - File transfer completed successfully
+2024-11-02 13:16:04,534 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning/automation-using-python to F:/test
+2024-11-02 13:16:04,572 - INFO - File transfer completed successfully
+2024-11-02 13:16:27,951 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 13:24:04,831 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/naija-emo-speech-web to F:/test
+2024-11-02 13:24:15,414 - INFO - File transfer completed successfully
+2024-11-02 13:24:47,811 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 13:37:23,117 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 13:37:49,309 - INFO - File transfer cancelled by user
+2024-11-02 13:37:58,504 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning/automation-using-python to F:/test
+2024-11-02 13:37:58,552 - ERROR - Error during file transfer: name 'ThreadPoolExecutor' is not defined
+2024-11-02 13:38:00,511 - INFO - File transfer completed successfully
+2024-11-02 13:38:38,830 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning/automation-using-python to F:/test
+2024-11-02 13:38:38,858 - INFO - File transfer completed successfully
+2024-11-02 13:39:36,816 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 13:46:09,634 - INFO - File transfer cancelled by user
+2024-11-02 13:48:30,640 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 13:48:43,783 - INFO - File transfer cancelled by user
+2024-11-02 13:48:57,115 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning/automation-using-python to F:/test
+2024-11-02 13:48:57,141 - INFO - File transfer completed successfully
+2024-11-02 14:00:22,417 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 14:04:49,078 - INFO - File transfer cancelled by user
+2024-11-02 14:07:55,033 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 14:11:25,783 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 14:11:58,519 - INFO - File transfer cancelled by user
+2024-11-02 14:13:50,580 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 14:16:59,705 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 14:19:34,292 - INFO - File transfer cancelled by user
+2024-11-02 14:20:10,534 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/naija-emo-speech-web to F:/test
+2024-11-02 14:20:10,808 - INFO - File transfer completed successfully
+2024-11-02 14:20:43,382 - INFO - Starting file transfer from C:/Users/user/Desktop/DSN to F:/test
+2024-11-02 14:23:37,939 - INFO - Starting file transfer from C:/Users/user/Desktop/DSN to F:/test
+2024-11-02 14:24:02,093 - INFO - File transfer cancelled by user
+2024-11-02 14:24:42,736 - INFO - Starting file transfer from C:/Users/user/Desktop/DSN to F:/test
+2024-11-02 14:25:21,666 - INFO - File transfer cancelled by user
+2024-11-02 14:29:26,251 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 14:29:55,233 - INFO - File transfer cancelled by user
+2024-11-02 14:30:36,377 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 14:33:52,100 - INFO - File transfer cancelled by user
+2024-11-02 14:34:10,554 - INFO - Starting file transfer from C:/Users/user/Desktop/DSN/certiverse-frontend to F:/test
+2024-11-02 14:34:11,489 - INFO - File transfer completed successfully
+2024-11-02 14:36:25,726 - INFO - Starting file transfer from C:/Users/user/Desktop/DSN/Software to F:/test
+2024-11-02 14:36:25,902 - INFO - File transfer completed successfully
+2024-11-02 14:37:26,637 - INFO - Starting file transfer from C:/Users/user/Desktop/DSN/Software to F:/test
+2024-11-02 14:39:50,044 - INFO - Starting file transfer from C:/Users/user/Desktop/DSN/Software to F:/test
+2024-11-02 14:40:26,894 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:26,932 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:26,977 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,002 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,022 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,042 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,067 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,111 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,142 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,158 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,196 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,226 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,249 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,261 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,295 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,318 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,340 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,362 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,381 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,402 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,423 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,446 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,465 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,490 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:27,517 - ERROR - Error during file transfer: Error in batch transfer: name 'time' is not defined
+2024-11-02 14:40:42,780 - INFO - File transfer completed successfully
+2024-11-02 14:40:45,041 - INFO - File transfer completed successfully
+2024-11-02 14:40:46,925 - INFO - File transfer completed successfully
+2024-11-02 14:40:48,116 - INFO - File transfer completed successfully
+2024-11-02 14:40:52,533 - INFO - File transfer completed successfully
+2024-11-02 14:49:27,653 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning/datacamp-ai-projects to F:/test/uLearn
+2024-11-02 14:49:30,868 - INFO - File transfer completed successfully
+2024-11-02 14:51:18,595 - INFO - Starting file transfer from C:/Users/user/Desktop/DSN/Software/uLearn to F:/test
+2024-11-02 14:51:18,918 - INFO - File transfer completed successfully
+2024-11-02 14:52:15,023 - INFO - Starting file transfer from C:/Users/user/Desktop/DSN/Software to F:/test
+2024-11-02 14:52:31,643 - INFO - File transfer cancelled by user
+2024-11-02 14:55:08,036 - INFO - Starting file transfer from C:/Users/user/Desktop/DSN/Software to F:/test
+2024-11-02 14:55:10,804 - INFO - File transfer cancelled by user
+2024-11-02 15:02:43,819 - INFO - Starting file transfer from C:/Users/user/Desktop/DSN/Software to F:/test
+2024-11-02 15:02:44,263 - INFO - File transfer completed successfully
+2024-11-02 15:03:11,655 - INFO - Starting file transfer from C:/Users/user/Desktop/dev/2024-learning to F:/test
+2024-11-02 15:03:25,098 - INFO - File transfer completed successfully
+2024-11-02 15:47:40,467 - INFO - Starting file transfer from C:/Users/user/Desktop/DSN to F:/DSN
+2024-11-02 15:48:07,883 - INFO - File transfer completed successfully
